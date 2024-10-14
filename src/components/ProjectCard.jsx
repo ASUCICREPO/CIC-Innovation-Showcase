@@ -19,7 +19,7 @@ const ProjectCard = ({projectName, projectInfo, demo}) => {
     <Box
       boxShadow={3}
       borderRadius={"15px"}
-      width={"400px"}
+      width={"450px"}
       sx={{ backgroundColor: "rgb(107, 78, 121, 0.9)" }}
       p={3}
     >
