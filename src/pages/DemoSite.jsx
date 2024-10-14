@@ -19,6 +19,7 @@ const positions = [
   { top: '37%', left: '18%' },
   { top: '45%', left: '34%' },
   { top: '52%', left: '67%' },
+  { top: '54%', left: '27%' },
 ];
 
 const DemoSite = () => {
